@@ -44,7 +44,7 @@ I can bring my knowledge and my sense of humor.
 
 ### A funny story
 
-I don't always lsiten to metal, but when I do, so do my neighbors.
+I don't always listen to metal, but when I do, so do my neighbors.
 
 #### TL;DR
 
