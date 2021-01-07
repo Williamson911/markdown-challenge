@@ -1,5 +1,3 @@
-# markdown-challenge
-
 # William
 
 *May the force be with you*
