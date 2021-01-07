@@ -1,12 +1,12 @@
 # markdown-challenge
 
-# Heading level 1 William
+# William
 
 *May the force be with you*
 
-[![A proffessional picture of me](D:\William\Pictures\will.jpg "Me")]
+![A proffessional picture of me](https://avatars0.githubusercontent.com/u/76173928?s=400&v=4)
 
-# Heading level 2 Hardcore gamer since 1991
+## Hardcore gamer since 1991
 
 | Birthday 	| 20/02 	|
 |-	|-	|
@@ -14,7 +14,7 @@
 | Favorite food 	| Pizza margherita 	|
 | Pinneapple on pizza: 	| Yes - [ ] No -[x] 	|
 
-# Heading level 3 Hobbies
+### Hobbies
 
 * Video Games
     * RPG
@@ -36,19 +36,19 @@
 * Movies
 
 
-# Heading level 3 You can always count on me when the end of the time comes
+### You can always count on me when the end of the time comes
 
 
 
 I can bring my knowledge and my sense of humor.
 
-# Heading level 3 A funny story
+### A funny story
 
 I'm amnesic
 
-# Heading level 4 TL;DR (even smaller header, under funny story)
+#### TL;DR (even smaller header, under funny story)
 
 Blackout
 
 
-<< []() || William Vassaux || []() >>
+<< [Thomas Chardome](https://github.com/chardomethomas/markdown-challenge) || William Vassaux || [HO Yun Hsia](https://github.com/yunhsiaho/markdown-challenge) >>
