@@ -12,7 +12,7 @@
 |-	|-	|
 | Favorite color 	| Black 	|
 | Favorite food 	| Pizza margherita 	|
-| Pinneapple on pizza: 	| <ul><li>- [ ] yes</li><li>- [X] no</li></ul> 	|
+| Pinneapple on pizza: 	| <ul>- [ ] yes</li><li>- [X] no</ul> 	|
 
 ### Hobbies
 
