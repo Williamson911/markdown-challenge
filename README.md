@@ -44,11 +44,11 @@ I can bring my knowledge and my sense of humor.
 
 ### A funny story
 
-I'm amnesic
+I don't always lsiten to metal, but when I do, so do my neighbors.
 
 #### TL;DR
 
-Blackout
+TURN THE VOLUME UP
 
 
 << [Thomas Chardome](https://github.com/chardomethomas/markdown-challenge) || William Vassaux || [HO Yun Hsia](https://github.com/yunhsiaho/markdown-challenge) >>
