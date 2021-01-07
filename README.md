@@ -16,10 +16,20 @@
 
 # Heading level 3 Hobbies
 
-This should contain a bullet list of your hobbies
-At least on item should contain a sublist, for example if you like movies, maybe make a sublist of some movies you really like.
+1. Video Games
+    - RPG
+    - Action|Aventure
+    - Action|Infiltration 
+    - Versus Fighting
+    - Beat'em All 
+2. Dragon Ball Super Card Game
+3. Comics
+4. Manga
+5. Movies
 
-You can always count on me when... (smaller header)
+# Heading level 3 You can always count on me when the end of the time comes
+
+
 
 Tell your teammates which positive contribution to the group you will make.
 This could be technical, making people feel comfortable, being an organiser...
