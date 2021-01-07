@@ -32,6 +32,8 @@
 * Manga
 * Books
 * Movies
+* Graphic Design
+* Being Batman
 
 
 ### You can always count on me when the end of the time comes
