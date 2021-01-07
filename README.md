@@ -46,7 +46,7 @@ I can bring my knowledge and my sense of humor.
 
 I'm amnesic
 
-#### TL;DR (even smaller header, under funny story)
+#### TL;DR
 
 Blackout
 
